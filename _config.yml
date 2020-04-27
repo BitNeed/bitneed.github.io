@@ -6,9 +6,9 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Sérgio Nóbrega
   pic: 1
-  position: Lead Designer
+  position: position
   social:
     - title: twitter
       url: #
@@ -17,9 +17,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Carlotta Tagliaro
   pic: 2
-  position: Lead Marketer
+  position: position
   social:
     - title: twitter
       url: #
@@ -28,15 +28,48 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Luca Morgese
   pic: 3
-  position: Lead Developer
+  position: position
   social:
     - title: twitter
       url: #
     - title: facebook
       url: #
     - title: google-plus
+      url: #
+
+- name: Natalia Lopez
+  pic: 3
+  position: position
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Fabio Della Giustina
+  pic: 3
+  position: position
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Giulia Brusadin
+  pic: 3
+  position: position
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
