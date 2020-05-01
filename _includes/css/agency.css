@@ -181,7 +181,7 @@ fieldset[disabled] .btn-xl.active {
     padding-right: 0px;
 }
 
-img.navbar-brand {
+.navbar-brand img {
     height: -webkit-fill-available;
 }
 
