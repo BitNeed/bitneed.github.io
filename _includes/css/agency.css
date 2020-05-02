@@ -182,7 +182,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-brand img {
-    height: -webkit-fill-available;
+    height: 100%;
 }
 
 .navbar-default .navbar-brand {
