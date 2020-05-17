@@ -10,76 +10,48 @@ people:
   pic: sergio
   position: General Manager
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/sernobrega/
 
 - name: Carlotta Tagliaro
   pic: carlotta
   position: Finance Responsible
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/carlotta-tagliaro-236384190/
 
 - name: Luca Morgese
   pic: luca
   position: Technology Responsible
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/luca-morgese-8492aa188/
 
 - name: Natalia Lopez
   pic: natalia
   position: Marketing Responsible
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/natalia-l%C3%B3pez-marin-23842117a/
 
 - name: Fabio Della Giustina
   pic: fabio
   position: Technology Responsible
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/fabio-della-giustina/
 
 - name: Giulia Brusadin
   pic: giulia
   position: Product Development Responsible
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/giulia-brusadin-48665517b/
 
 - name: Riccardo Gorla
   pic: riccardo
   position: Product Development Responsible
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
     - title: linkedin
       url: #
 
