@@ -8,7 +8,7 @@ description: "Write an awesome description for your new site here. You can edit 
 people:
 - name: Sérgio Nóbrega
   pic: 1
-  position: position
+  position: General Manager
   social:
     - title: twitter
       url: #
@@ -19,7 +19,7 @@ people:
 
 - name: Carlotta Tagliaro
   pic: 2
-  position: position
+  position: Finance Responsible
   social:
     - title: twitter
       url: #
@@ -30,7 +30,7 @@ people:
 
 - name: Luca Morgese
   pic: 3
-  position: position
+  position: Technology Responsible
   social:
     - title: twitter
       url: #
@@ -40,8 +40,8 @@ people:
       url: #
 
 - name: Natalia Lopez
-  pic: 3
-  position: position
+  pic: 4
+  position: Marketing Responsible
   social:
     - title: twitter
       url: #
@@ -51,8 +51,8 @@ people:
       url: #
 
 - name: Fabio Della Giustina
-  pic: 3
-  position: position
+  pic: 5
+  position: Technology Responsible
   social:
     - title: twitter
       url: #
@@ -62,8 +62,8 @@ people:
       url: #
 
 - name: Giulia Brusadin
-  pic: 3
-  position: position
+  pic: 6
+  position: Product Development Responsible
   social:
     - title: twitter
       url: #
