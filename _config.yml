@@ -7,7 +7,7 @@ description: "Write an awesome description for your new site here. You can edit 
 # Team names, titles and social links
 people:
 - name: Sérgio Nóbrega
-  pic: 1
+  pic: sergio
   position: General Manager
   social:
     - title: twitter
@@ -18,7 +18,7 @@ people:
       url: #
 
 - name: Carlotta Tagliaro
-  pic: 2
+  pic: carlotta
   position: Finance Responsible
   social:
     - title: twitter
@@ -29,7 +29,7 @@ people:
       url: #
 
 - name: Luca Morgese
-  pic: 3
+  pic: luca
   position: Technology Responsible
   social:
     - title: twitter
@@ -40,7 +40,7 @@ people:
       url: #
 
 - name: Natalia Lopez
-  pic: 4
+  pic: natalia
   position: Marketing Responsible
   social:
     - title: twitter
@@ -51,7 +51,7 @@ people:
       url: #
 
 - name: Fabio Della Giustina
-  pic: 5
+  pic: fabio
   position: Technology Responsible
   social:
     - title: twitter
@@ -62,7 +62,7 @@ people:
       url: #
 
 - name: Giulia Brusadin
-  pic: 6
+  pic: giulia
   position: Product Development Responsible
   social:
     - title: twitter
